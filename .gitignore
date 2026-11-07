@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+.env
+data/*.db
+generated_question_paper.docx
+.streamlit/secrets.toml
